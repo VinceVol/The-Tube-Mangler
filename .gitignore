@@ -1,0 +1,68 @@
+# ==========================================
+# FreeCAD
+# ==========================================
+# Auto-save / backup files created by FreeCAD
+*.FCStd#
+*.FCStd?*
+*~.FCStd
+
+# Temporary recovery, lock, and swap files
+*.lock
+*.tmp
+*.swp
+*.FCBak
+
+# FreeCAD GUI settings override per project (if saved locally)
+user.cfg
+system.cfg
+
+# Embedded Mesh / CAM intermediate export dumps
+*.ast
+*.off
+
+# ==========================================
+# LinuxCNC
+# ==========================================
+# Position, var, and runtime state tracking files
+*.var
+*.pos
+*.tag
+
+# Tool table backup/temporary files (keep your main .tbl, ignore dynamic copies)
+*.tbl.bak
+*.tbl~
+
+# LinuxCNC & HAL log / debug outputs
+*.log
+*.err
+linuxcnc.log
+HAL*.log
+
+# NML / Communication buffers & lock files
+*.nml
+*.lock
+.hal_lock
+
+# Axis / Touchy / QtVCP GUI state memory
+.axis_state
+.qtvcp_state
+*.position
+
+# ==========================================
+# Generated G-Code & CAM Exports (Optional)
+# Uncomment if G-code is built from CAD/CAM source and shouldn't be tracked
+# ==========================================
+# *.gcode
+# *.nc
+# *.tap
+# *.ngc
+
+# ==========================================
+# System & Editor Clutter
+# ==========================================
+.DS_Store
+Thumbs.db
+*~
+*.bak
+.vscode/
+.idea/
