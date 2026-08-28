@@ -1,0 +1,7 @@
+Linear Rails and Carriage -- 12mm regular
+Carriage rep: 6709K115
+Rail Rep: 6709K162
+
+Rack and pinion:
+Rack rep: 2485N241
+Pinion Rep: 2664N312
