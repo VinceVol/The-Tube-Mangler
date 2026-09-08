@@ -10,6 +10,5 @@
 | Pinion Shoulder Bolt | [92981A745](https://www.mcmaster.com/92981A745/) | ~ |
 | Pinion Shoulder Bolt Bearing| [6659K113](https://www.mcmaster.com/6659K) | ~ |
 | Pinion Shoulder Bolt Washer| [98689A113](https://www.mcmaster.com/98689A113/) | ~ |
-| Push Back Bearing (rack)| 6153K69 | ~ |
-| Push Back Bearing Shoulder Bolt | 90318A770 | ~ |
+| Drive Screw Thrust Bearing | 6655K15 | ~ |
 
