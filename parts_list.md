@@ -29,4 +29,11 @@
 |HTD 5 Belt 890mm|[7939K28](https://www.mcmaster.com/7939K28/)|\~|
 
 
+## Axial Drive
+
+[Image of Axial Shit](path)
+
+|**Part Description**|**Part Name**|**Qnty**|
+|:-:|:-:|:-:|
+|Flanged Bearings|[1.375x0.75x7/8](https://www.ebay.com/itm/303683645683?_skw=0.75+1.625+1.75+flanged+ball+bearing&itmmeta=01M2E0CXXTXP1TMT73RXGRFEGH&hash=item46b4f4b0f3:g:C0MAAeSwj8NqilIi&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAiuWvpcQmjXyuI0oj9m3q4QpofD%2Bmp2JJ3L%2FTb9hNQwo77IFQsSKvEWBc3UlCRs0zgOTY4qpI6aBfLLLx2rgG62O386Zi7fwK%2BvbtAN2la95hbR%2FPy4E8jmMbINHWRKdyIdm%2BOeqr4F8R5T1jJg9t9TlIJQon%2Bvhxfjm5%2BqyDBjAN61RyMK%2Bxhd0KmiMDHbBuPTJ2gLXw5MteIkvbYcH5J%2BijCobbWZISwVx9umddnqJd83NznENUF3qOI7MtGpuB8IAh3DDeVBDqb50A2Uv4M%7Ctkp%3ABlBMUI7fs8CTaA)|\~|
 
