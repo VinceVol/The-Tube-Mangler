@@ -28,6 +28,10 @@ to connect the gear box to the roller I think the fit is just about right:
 
 ![**Fig 1.3:** *100:1 Gearbox w/ Nema 17*](./Pics/Nema17100to1.png)
 
+## Active Todos!
+-[] change the rack mounting to holes rather than slots
+-[] design for the [rugged limit switches] (https://www.amazon.com/Baomain-TZ-3111-Plunger-Momentary-Waterproof/dp/B01HKSDVAK/ref=sr_1_10?crid=K9Y9PV04WYIY&dib=eyJ2IjoiMSJ9.GH3yRV8kkKKfn_6Ri8cbG8y2POqV6Vn31py9v4pxs673OLR-k3mrr06_o_WG2M57EGioGVM6RKQoAdn7CJjLQoJsyrJ7q7SdaAk0hRw_eUYXtU3tUpFXaP6RdIXbXWYowd6-c-9RmsZ8q4D60eyBxh9csbo4zo0cq7GyhMWEnKPxPPJbKTFn8Dth3VGfgGLHs2LbXWVTk-rrq-LYLHuytSXkss-5eh3VwCUtPMb_hLs.FNnZ-1sPsCCEm1HDJyGMOCtyHjQYLTU7sxAUBJ86V3k&dib_tag=se&keywords=plunger+limit+switch&qid=1790180860&sprefix=plunger+limit+switch%2Caps%2C134&sr=8-10) used on Jasper the CNC 
+-[] Refactor the moving and fixed jaws to use the slightly longer carriage that seems to come with the cheapo 12mm rails
  
 ## Step 2 
 Addition of plasma cutter
