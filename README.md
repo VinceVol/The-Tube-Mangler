@@ -35,7 +35,7 @@ to connect the gear box to the roller I think the fit is just about right:
 - [ ] Add encoder mounting location for axial position
 - [ ] Check that all mating holes still line up after several iterations
 - [x] Animate the full rotation of the rotary axis to preview collisions
-	- [ ] Move the rotational homing prox sensor to avoid ![axial tensioning idler collision](./Pics/Prox Sensor Collision.png) or find stubby prox sensor
+	- [x] Move the rotational homing prox sensor to avoid ![axial tensioning idler collision](./Pics/Prox Sensor Collision.png) or find stubby prox sensor
 - [ ] Design for cable chains and wire routing
 - [ ] Design for physical panel location
 - [ ] Draw up schematic using linuxCNC Mesa 7i96s

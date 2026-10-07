@@ -27,6 +27,7 @@
 |Bellville Disc Spring|[9712K63](https://www.mcmaster.com/9712K63/)|\~|\~|
 |Radial Stepper Motor|[Amazon Hight Torque](https://a.co/d/07xEF6Ci)|\~|\~|
 |HTD 5 Belt 890mm|[7939K28](https://www.mcmaster.com/7939K28/)|\~|\~|
+|Proximity Sensor|[LJ8A3-2-Z/BY](https://a.co/d/01RUSQrh)|1|22.99|
 
 
 
