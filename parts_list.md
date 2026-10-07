@@ -20,13 +20,13 @@
 
 !\[Image of housing](path)
 
-|**Part Description**|**Part Name**|**Qnty**|
-|:-:|:-:|:-:|
-|Track Bearings|[6321K51](https://ebay.io/m/LhClsj)|\~|
-|Track Shoulder Shim Washers|[90214A904](https://a.co/d/0chW9DGh)|\~|
-|Bellville Disc Spring|[9712K63](https://www.mcmaster.com/9712K63/)|\~|
-|Radial Stepper Motor|[Amazon Hight Torque](https://a.co/d/07xEF6Ci)|\~|
-|HTD 5 Belt 890mm|[7939K28](https://www.mcmaster.com/7939K28/)|\~|
+|**Part Description**|**Part Name**|**Qnty**|**Price**|
+|:-:|:-:|:-:|:-:|
+|Track Bearings|[6321K51](https://ebay.io/m/LhClsj)|\~|\~|
+|Track Shoulder Shim Washers|[90214A904](https://a.co/d/0chW9DGh)|\~|\~|
+|Bellville Disc Spring|[9712K63](https://www.mcmaster.com/9712K63/)|\~|\~|
+|Radial Stepper Motor|[Amazon Hight Torque](https://a.co/d/07xEF6Ci)|\~|\~|
+|HTD 5 Belt 890mm|[7939K28](https://www.mcmaster.com/7939K28/)|\~|\~|
 
 
 
@@ -34,9 +34,10 @@
 
 !\[Image of Axial Shit](path)
 
-|**Part Description**|**Part Name**|**Qnty**|
-|:-:|:-:|:-:|
-|Flanged Bearings|[1.375x0.75x7/8](https://ebay.io/m/fyqjXr)|\~|
+|**Part Description**|**Part Name**|**Qnty**|**Price**|
+|:-:|:-:|:-:|:-:|
+|Flanged Bearings|[1.375x0.75x7/8](https://ebay.io/m/fyqjXr)|\~|\~|
+|276mm 6mm HTD Belt|[7939K15](https://www.mcmaster.com/7939K15/)|1|26.54|
 
 
 
