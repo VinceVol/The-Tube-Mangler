@@ -10,6 +10,7 @@ Looking to create a CNC plasma tube notcher &amp; pen plotter to work with 1/2" 
 - [x] Animate the full rotation of the rotary axis to preview collisions
 	- [x] Move the rotational homing prox sensor to avoid ![axial tensioning idler collision](./Pics/Prox Sensor Collision.png) or find stubby prox sensor
 - [ ] Design for cable chains and wire routing
+- [ ] Add table mounting feature
 - [ ] Design for physical panel location
 - [ ] Draw up schematic using linuxCNC Mesa [7I76EU](https://store.mesanet.com/index.php?route=product/product&product_id=399&search=7I76EU) -- [datasheet](https://www.mesanet.com/pdf/parallel/7i76euman.pdf)
 
