@@ -15,6 +15,8 @@
 |Pinion Shoulder Bolt Washer|[98689A113](https://www.mcmaster.com/98689A113/)|\~|\~|
 |Drive Screw Thrust Bearing|6655K15|\~|\~|
 |15 mm GT2/HTD|[7939K15](https://www.mcmaster.com/7939K15/)|\~|\~|
+|Idler Bearings|[625-2RS](https://a.co/d/0cwPjSOt)|1|8.99|
+|Idler Bearing Shoulder Bolts|[m4 5mm Shldr Bolt 5mm Shldr Lngth](https://a.co/d/08GaMDHQ)|1|13.49|
 
 ## Chuck Housing
 
