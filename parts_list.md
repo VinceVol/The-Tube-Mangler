@@ -51,3 +51,13 @@
 |Linear Rail|[MGN12H\_250](https://ebay.io/m/SlpQe4)|2|26.95|
 |Linear Rail|[MGN12C\_100](https://ebay.io/m/GM0nUj)|2|19.88|
 
+
+
+## Encoder Housing
+
+!\[Image of that](path)
+
+|**Part Description**|**Part Name**|**Qnty**|**Price**|
+|:-:|:-:|:-:|:-:|
+|Encoder|[E4T-1000-197-D-D-M-2](https://www.digikey.com/en/products/detail/us-digital/E4T-1000-197-D-D-M-2/27558059)|1|63.70|
+|Bearings|[626-2RS](https://a.co/d/0bFqrl6c)|1|7.99|

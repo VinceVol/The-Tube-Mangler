@@ -5,13 +5,16 @@ Looking to create a CNC plasma tube notcher &amp; pen plotter to work with 1/2" 
 - [x] Change the rack mounting to holes rather than slots
 - [x] Design for the [rugged limit switches](https://www.amazon.com/Baomain-TZ-3111-Plunger-Momentary-Waterproof/dp/B01HKSDVAK/ref=sr_1_10?crid=K9Y9PV04WYIY&dib=eyJ2IjoiMSJ9.GH3yRV8kkKKfn_6Ri8cbG8y2POqV6Vn31py9v4pxs673OLR-k3mrr06_o_WG2M57EGioGVM6RKQoAdn7CJjLQoJsyrJ7q7SdaAk0hRw_eUYXtU3tUpFXaP6RdIXbXWYowd6-c-9RmsZ8q4D60eyBxh9csbo4zo0cq7GyhMWEnKPxPPJbKTFn8Dth3VGfgGLHs2LbXWVTk-rrq-LYLHuytSXkss-5eh3VwCUtPMb_hLs.FNnZ-1sPsCCEm1HDJyGMOCtyHjQYLTU7sxAUBJ86V3k&dib_tag=se&keywords=plunger+limit+switch&qid=1790180860&sprefix=plunger+limit+switch%2Caps%2C134&sr=8-10) used on Jasper the CNC
 - [x] Add pulley clearance for axial drive
-- [ ] Add encoder mounting location for axial position -- [E4T-1000-197-D-D-M-2 encoder](https://www.digikey.com/en/products/detail/us-digital/E4T-1000-197-D-D-M-2/27558059)
-- [ ] Check that all mating holes still line up after several iterations
 - [x] Animate the full rotation of the rotary axis to preview collisions
 	- [x] Move the rotational homing prox sensor to avoid ![axial tensioning idler collision](./Pics/Prox Sensor Collision.png) or find stubby prox sensor
+- [ ] Refactor roller design
+	- [ ] Change to flanged bearings that are cheaply accessible
+	- [ ] Change design to better constrain the rollers
+- [ ] Add encoder mounting location for axial position -- [E4T-1000-197-D-D-M-2 encoder](https://www.digikey.com/en/products/detail/us-digital/E4T-1000-197-D-D-M-2/27558059)
 - [ ] Design for cable chains and wire routing
 - [ ] Add table mounting feature
 - [ ] Design for physical panel location
+- [ ] Check that all mating holes still line up after several iterations
 - [ ] Draw up schematic using linuxCNC Mesa [7I76EU](https://store.mesanet.com/index.php?route=product/product&product_id=399&search=7I76EU) -- [datasheet](https://www.mesanet.com/pdf/parallel/7i76euman.pdf)
 
 # Path to success
