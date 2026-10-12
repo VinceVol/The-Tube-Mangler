@@ -63,3 +63,4 @@
 |:-:|:-:|:-:|:-:|
 |Encoder|[E4T-1000-197-D-D-M-2](https://www.digikey.com/en/products/detail/us-digital/E4T-1000-197-D-D-M-2/27558059)|1|63.70|
 |Bearings|[626-2RS](https://a.co/d/0bFqrl6c)|1|7.99|
+|Sleeve Bearing|[7460N119](https://www.mcmaster.com/7460N119/)|1|2.76|
