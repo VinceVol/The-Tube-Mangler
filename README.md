@@ -10,7 +10,8 @@ Looking to create a CNC plasma tube notcher &amp; pen plotter to work with 1/2" 
 - [x] Refactor roller design
 	- [x] Change to flanged bearings that are cheaply accessible -- chose to machine in shoulder --flanged bearings are hard to find
 	- [x] Change design to better constrain the rollers -- Using shoulder bolts to constrain the bearings and the blocks have a small bumpout to prevent rubbing 
-- [ ] Add encoder mounting location for axial position -- [E4T-1000-197-D-D-M-2 encoder](https://www.digikey.com/en/products/detail/us-digital/E4T-1000-197-D-D-M-2/27558059)
+- [x] Add encoder mounting location for axial position -- [E4T-1000-197-D-D-M-2 encoder](https://www.digikey.com/en/products/detail/us-digital/E4T-1000-197-D-D-M-2/27558059)
+	- [ ] Refactor the main assembly to include lazy clamp encoder variant subassembly A011
 - [ ] Design for cable chains and wire routing
 - [ ] Check encoder output rate is compatable with the mesa board
 - [ ] Add table mounting feature
